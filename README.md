@@ -16,8 +16,16 @@ You can print on the console the cell corresponding to its value in ASCII, assum
 ```i```
 The command ***i*** increments the cell value which is being pointed at by the pointer by 1. <br>
 ```d```
-The command ***i*** increments the cell value which is being pointed at by the pointer by 1. <br>
+The command ***i*** decrements the cell value which is being pointed at by the pointer by 1. <br>
 ```()```
 The delimiters ***(*** and ***)*** repeat the code between them until the current value of the cell which the pointer is pointing at is 0. <br>
+```^```
+The command ***^*** increments the pointer value by 1. <br>
+```v```
+The command ***v*** decrements the pointer value by 1. <br>
+```!```
+The command ***!*** prints the ASCII value of the value of the cell which is being pointed at. <br>
+```§```
+The command ***§*** prints the value of the cell which is being pointed at. <br>
 
 # Unfinished...
