@@ -8,6 +8,8 @@ def p(m):
  w=""
  l=0
  for i in m:
+  if c>9999:c=9999
+  if c<0:c=0
   if i=="(":
    l=1
    continue
