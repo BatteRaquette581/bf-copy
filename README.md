@@ -14,10 +14,10 @@ You can print on the console the cell corresponding to its value in ASCII, assum
 
 ## Commands
 ```i```
-The command ***i*** increments the cell value which is being pointed at by the pointer by 1.
+The command ***i*** increments the cell value which is being pointed at by the pointer by 1. <br>
 ```d```
-The command ***i*** increments the cell value which is being pointed at by the pointer by 1.
+The command ***i*** increments the cell value which is being pointed at by the pointer by 1. <br>
 ```()```
-The delimiters ***(*** and ***)*** repeat the code between them until the curent value of the cell which the pointer is pointing at is 0.
+The delimiters ***(*** and ***)*** repeat the code between them until the curent value of the cell which the pointer is pointing at is 0. <br>
 
 # Unfinished...
