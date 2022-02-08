@@ -18,6 +18,6 @@ The command ***i*** increments the cell value which is being pointed at by the p
 ```d```
 The command ***i*** increments the cell value which is being pointed at by the pointer by 1. <br>
 ```()```
-The delimiters ***(*** and ***)*** repeat the code between them until the curent value of the cell which the pointer is pointing at is 0. <br>
+The delimiters ***(*** and ***)*** repeat the code between them until the current value of the cell which the pointer is pointing at is 0. <br>
 
 # Unfinished...
