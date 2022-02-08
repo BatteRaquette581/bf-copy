@@ -27,5 +27,5 @@ The command ***v*** decrements the pointer value by 1. <br>
 The command ***!*** prints the ASCII value of the value of the cell which is being pointed at. <br>
 ```§```
 The command ***§*** prints the value of the cell which is being pointed at. <br>
-
-# Unfinished...
+```m```
+The command ***m*** prints the value of the 10000 cells. <br>
